@@ -170,12 +170,36 @@ I also create motivational content for youth on platforms like TikTok, YouTube, 
 - 📱 Building real-world **AI tools for creators**, like the [AI Content Idea Generator](https://your-deployed-app.com)
 
 ---
+### 📝 Publications
+- 📖 Exploring the Impact of AI on Kidney Stone Detection — A Comprehensive Review
+- Journal: Computers in Biology and Medicine
+- Submission Date: January 2024
+- Manuscript ID: CIBM-D-24-00543
+- Status: Under Review
+
+A comprehensive literature review exploring how state-of-the-art AI technologies, including deep learning and LLMs, are shaping the future of cancer screening and diagnosis across modalities.
+
+### 🎓 Certificates & Continuous Learning
+
+| Certificate/Specialization                      | Provider     | Date Completed | Link  |
+|--------------------------------------------------|--------------|----------------|-------|
+| Google Data Analytics Specialization             | Google       | Apr 2022       | [View](#) |
+| Google Data Analytics Specialization             | Google       | Apr 2022       | [View](#) |
+| Google Data Analytics Specialization             | Google       | Apr 2022       | [View](#) |
+| Google Data Analytics Specialization             | Google       | Apr 2022       | [View](#) |
+| Natural Language Processing                      | Udemy, Inc.  | Aug 2025       | [View](#) |
+| Google Data Analytics Specialization             | Google       | Apr 2022       | [View](#) |
+| Google Data Analytics Specialization             | Google       | Apr 2022       | [View](#) |
+| Google Data Analytics Specialization             | Google       | Apr 2022       | [View](#) |
+| Google Data Analytics Specialization             | Google       | Apr 2022       | [View](#) |
+| Google Data Analytics Specialization             | Google       | Apr 2022       | [View](#) |
+
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?MustefaAbrahim1&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?MustefaAbrahim1&layout=compact" />
 </p>
 
 ---
@@ -185,5 +209,5 @@ I also create motivational content for youth on platforms like TikTok, YouTube, 
 If you’re interested in collaborating on AI research or product development — feel free to connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin/"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/mustefa-abrahim/"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
 </p>
