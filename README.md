@@ -195,13 +195,6 @@ A comprehensive literature review exploring how state-of-the-art AI technologies
 | Google Data Analytics Specialization             | Google       | Apr 2022       | [View](#) |
 
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?MustefaAbrahim1&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?MustefaAbrahim1&layout=compact" />
-</p>
-
 ---
 
 ## 📢 Let's Connect
