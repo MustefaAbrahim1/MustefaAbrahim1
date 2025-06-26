@@ -1,8 +1,9 @@
 <h1 align="center">👋 Hi, I'm Mustefa Abrahim!</h1>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&multiline=true&width=1000&lines=👋+Hi%2C+I'm+Mustefa+Abrahim!;AI+Researcher+%7C+ML+Engineer+%7C+DL+Engineer+%7C+Data+Analyst;M.Tech+DS+%40+IIT+Madras+(2024)+%7C+B.Tech+CS+%40+KIIT+(2022);Islamic+Young+Motivator+%7C+Building+the+Future+with+AI" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <strong>M.Tech Data Science @ IIT Madras (2024 Batch) | B.Tech (Honor) CSE @ KIIT (2022 Batch) | AI Researcher| DL Engineer | ML Engineer | Data Analyst | Islamic Young Motivator
+Building the Future with AI, One Model at a Time </em>
+</p>
 
 <p align="center">
   <a href="mailto:mustefa.au@gmail.com"><img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
