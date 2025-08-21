@@ -26,7 +26,6 @@ My passion lies at the intersection of:
 - 💼 Business Intelligence & Analytics
 - 💼 Data Scientist and Analytics
 
-I also create motivational content for youth on platforms like TikTok, YouTube, and Facebook.
 
 ---
 
